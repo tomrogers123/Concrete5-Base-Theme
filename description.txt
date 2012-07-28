@@ -1,0 +1,2 @@
+Base
+A clean stater theme for developers.
