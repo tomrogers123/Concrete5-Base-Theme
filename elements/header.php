@@ -3,6 +3,8 @@
 <html lang="<?php echo LANGUAGE ?>">
 <head>
   
+  <meta content="chrome=1" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width" name="viewport">
   <?php  Loader::element('header_required'); ?>
   <link rel="stylesheet" media="screen" type="text/css" href="<?php echo $this->getStyleSheet('main.css')?>" />
 
